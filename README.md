@@ -18,6 +18,10 @@ apellido<input type="text" value="ANCHUNDIA">
 </br>correo<input type="email" >
 </section>
 <section>
+<aside>
+<p>los productos q se ofrecen en esta paquina web sonde calidad </>
+
+</aside>
 <article>
     <p>
     Esta es una sección importante del contenido de la página.
